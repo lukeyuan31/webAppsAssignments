@@ -1,0 +1,23 @@
+            body{
+                background-color: white;
+                
+            
+            }
+            #mainbody{
+                width:1000px;
+                background-color: lightgray;
+                margin-left: auto;
+                margin-right: auto;
+                }
+
+            img {
+                width:245px;
+                height:155px;
+                
+            }
+            img:hover{
+              cursor: pointer;
+              transform: scale(1.1,1.1);
+              box-shadow:10px 10px 5px #888888;
+              border-radius:10px;
+            }
